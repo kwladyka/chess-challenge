@@ -1,4 +1,4 @@
-It is also worth to read connected article [how to improve algorithm speed](https://clojure.wladyka.eu/posts/how-to-improve-algorithm-speed/).
+It is also worth to read connected article [how to improve algorithm speed](https://clojure.wladyka.eu/posts/how-to-improve-algorithm-performance/).
 
 # Problem to solve
 
